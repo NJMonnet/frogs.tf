@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Stratbook ETF2l S52
 ---
-salut
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+GO FROGS!
