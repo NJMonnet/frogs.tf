@@ -1,4 +1,2 @@
 # Team positioning
 
-
----
