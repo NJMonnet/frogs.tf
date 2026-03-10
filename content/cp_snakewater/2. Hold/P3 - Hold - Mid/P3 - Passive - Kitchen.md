@@ -1,8 +1,6 @@
 
 ![[Pasted image 20260310223843.png]]
 
-
-
 ---
 # Scout Pocket
 
