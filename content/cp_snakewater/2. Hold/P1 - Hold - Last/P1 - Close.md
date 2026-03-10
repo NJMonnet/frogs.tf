@@ -1,4 +1,6 @@
 # Team positioning
+
+
 ![[Pasted image 20260310221827.png]]
 ---
 # Scout Engineer
