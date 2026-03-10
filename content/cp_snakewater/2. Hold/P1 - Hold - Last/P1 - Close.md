@@ -1,6 +1,5 @@
 # Team positioning
-![[Pasted image 20260310211728.png]]
-
+![[Pasted image 20260310221827.png]]
 ---
 # Scout Engineer
 
@@ -11,13 +10,19 @@
 
 *Lors des défenses de Last, le rôle des Scout Pocket/Flank est interchangeable
 
+
+
 # Soldier Flank
 
 # Soldier Pocket
 
 # Demoman
 
+Aider le Sniper, ne pas overextend
+
 # Medic
+
+Heal Sol pocket + Demo
 
 
 
