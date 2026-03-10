@@ -16,6 +16,8 @@
 
 # Soldier Pocket
 
+Peut call un trade lower si les ennemies sont très close
+
 # Demoman
 
 Aider le Sniper, ne pas overextend
