@@ -1,4 +1,4 @@
-![[Pasted image 20260310224647.png]]
+![[cp_snakewater_mid_passive_1.png]]
 
 ---
 

@@ -1,7 +1,7 @@
 # Team positioning
 
 
-![[Pasted image 20260310221827.png]]
+![[cp_snakewater_last_close.png]]
 ---
 # Scout Engineer
 
