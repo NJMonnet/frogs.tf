@@ -11,10 +11,11 @@ Peut regarder kitchen depuis  la hut rouge
 
 # Soldier Flank
 
-
+Peut se cacher au top point pour bomb Lower en cas de push
 
 # Soldier Pocket
 
+Transmettre les infos Lower au Sol F.
 
 # Demoman
 
