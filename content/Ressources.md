@@ -1,7 +1,15 @@
 # Lien utiles
-Mastercomfig : [https://comfig.app/](https://comfig.app/)
-Cfg.tf : [https://cfg.tf/](https://cfg.tf/)
-Callouts.tf : https://callouts.tf/
+
+###### [Mastercomfig](https://comfig.app/)
+- Configuration de jeu optimisé.
+- Hud communautaire
+- Hit/Killsounds
+
+###### [Cfg.tf](https://cfg.tf/)
+- Configuration de jeu optimisé.
+
+###### [Callouts.tf](https://callouts.tf)
+- Call des maps compétitive.
 
 # Binds
 ##### Banny bind (Respawn instant)
