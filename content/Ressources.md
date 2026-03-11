@@ -2,8 +2,8 @@
 
 ###### [Mastercomfig](https://comfig.app/)
 - Configuration de jeu optimisé.
-- Hud communautaire
-- Hit/Killsounds
+- Hud communautaire.
+- Hit/Killsounds.
 
 ###### [Cfg.tf](https://cfg.tf/)
 - Configuration de jeu optimisé.
@@ -11,8 +11,17 @@
 ###### [Callouts.tf](https://callouts.tf)
 - Call des maps compétitive.
 
+###### [ETF2L](https://etf2l.org/)
+- Ligue compétitive Européene.
+
+###### [RGL](https://rgl.gg/)
+- Ligue compétitive nord-américaine.
+
+###### [OZFORTRESS](https://ozfortress.com/pages/home)
+- Ligue compétitive Asie/Océanie.
+
 # Binds
-##### Banny bind (Respawn instant)
+###### Banny bind (Respawn instant)
 ```
 bind KEY "load_itempreset 0"
 ```
