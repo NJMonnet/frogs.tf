@@ -1,5 +1,5 @@
 
-![[cp_snakewater_mid_passive_2.png]]
+![[cp_snakewater_mid_close1.png]]
 
 ---
 # Scout Pocket

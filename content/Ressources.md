@@ -1,24 +1,24 @@
 # Lien utiles
 
 ###### [Mastercomfig](https://comfig.app/)
-- Configuration de jeu optimisé.
+- Configurations TF2 optimisées.
 - Hud communautaire.
 - Hit/Killsounds.
 
 ###### [Cfg.tf](https://cfg.tf/)
-- Configuration de jeu optimisé.
+- Configurations TF2 optimisées.
 
 ###### [Callouts.tf](https://callouts.tf)
-- Call des maps compétitive.
+- Call des maps compétitives.
 
 ###### [ETF2L](https://etf2l.org/)
-- Ligue compétitive Européene.
+- Ligue compétitive européenne.
 
 ###### [RGL](https://rgl.gg/)
 - Ligue compétitive nord-américaine.
 
 ###### [OZFORTRESS](https://ozfortress.com/pages/home)
-- Ligue compétitive Asie/Océanie.
+- Ligue compétitive asiatique / océanique.
 
 # Binds
 ###### Banny bind (Respawn instant)

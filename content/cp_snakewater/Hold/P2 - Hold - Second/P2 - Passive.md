@@ -1,6 +1,6 @@
 # Team positioning
 
-![[cp_snakewater_second_passive_temp.png]]
+![[cp_snakewater_second_pasive.png]]
 
 ---
 # Scout Pocket
