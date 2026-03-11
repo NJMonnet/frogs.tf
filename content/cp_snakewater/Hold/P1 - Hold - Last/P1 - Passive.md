@@ -38,14 +38,14 @@ Suivre les indications du main caller.
 
 # Scout Sniper
 
-*Lors des défenses de Last, le rôle des Scout Pocket/Flank est interchangeable
+*Lors des défenses de Last, le rôle des Scout Pocket/Flank est interchangeable*
 
 Le second Scout à réapparaître ou à atteindre le spawn peut prendre la classe Sniper.  
 L’objectif est de forcer l'utilisation de l'ûbercharge rapidement, ou dans le meilleure cas, un drop du medic adverse.
 
 A l'instar de l'Engineer, il est tout autant important de **ne pas mourir en Sniper.** Il faut jouer avec un positionement réfléchie pour ne pas se faire attraper lors d'une ûbercharge adverse.
 
-Une fois l'ubercharge adverse utilisée, il est recommendé de **switch en Heavy, Pyro ou Scout**, selon la situation.
+Une fois l'ubercharge utilisée, il est recommendé de **switch en Heavy, Pyro ou Scout**, selon la situation.
 ### Après un hold passif ?
 Suivre les indications du main caller.
 ### a. Passage en close
