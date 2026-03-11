@@ -2,8 +2,13 @@
 # Team positioning
 ![[cp_snakewater_last_passive.png]]
 
+[[#^427c32]]
+[[#^1ca56e]]
+
 ---
 # Scout Engineer
+
+^427c32
 
 *Lors des défenses de Last, le rôle des Scouts Pocket et Flank est interchangeable.*
 
@@ -22,7 +27,7 @@ Suivre les indications du main caller.
  1. Passage de l'équipe en possitionnement [[P1 - Close]], déplacement de la sentry au centre.
 ## b. Défense réussie
 
-1. Continuer en position passive et reprendre Engineer si un switch avait été effectué.
+1. Continuer en position de Hold et reprendre Engineer si un switch avait été effectué.
 
 
 2. Si un push est call, reprendre son rôle de Scout et suivre les indications de l’attaque [[P2 - Attack - Second]].
@@ -30,6 +35,8 @@ Suivre les indications du main caller.
 ---
 
 # Scout Sniper
+
+^1ca56e
 
 *Lors des défenses de Last, le rôle des Scout Pocket/Flank est interchangeable
 
