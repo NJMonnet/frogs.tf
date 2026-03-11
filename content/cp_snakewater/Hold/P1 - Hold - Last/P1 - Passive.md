@@ -82,4 +82,4 @@ build avec demo
 
 ### Défense perdu ?
 
-Go 
+Se référer à la section Mid.

@@ -1,6 +1,6 @@
 # Lien utiles
-Mastercomfig : [https://comfig.app/]()
-Cfg.tf : [https://cfg.tf/]()
+Mastercomfig : [https://comfig.app/](https://comfig.app/)
+Cfg.tf : [https://cfg.tf/](https://cfg.tf/)
 Callouts.tf : https://callouts.tf/
 
 # Binds
