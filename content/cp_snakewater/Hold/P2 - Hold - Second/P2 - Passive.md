@@ -1,6 +1,12 @@
 # Team positioning
 
 ![[cp_snakewater_second_pasive.png]]
+[[#Scout Engineer]]
+[[#Scout Sniper]]
+[[#Soldier Pocket]]
+[[#Soldier Flank]]
+[[#Demoman]]
+[[#Medic]]
 
 ---
 # Scout Pocket

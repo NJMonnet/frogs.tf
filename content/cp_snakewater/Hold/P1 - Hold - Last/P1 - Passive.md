@@ -1,4 +1,3 @@
-
 # Team positioning
 ![[cp_snakewater_last_passive.png]]
 
@@ -26,7 +25,7 @@ Une fois la Sentry détruite, il est recommandé de **switch en Heavy, Pyro ou S
 Suivre les indications du main caller.
 ### a. Passage en close
 
- 1. Passage de l'équipe en possitionnement [[P1 - Close]], déplacement de la sentry au centre.
+ 1. Passage de l'équipe en positionnement [[P1 - Close]], déplacement de la sentry au centre.
 ### b. Défense réussie
 
 1. Continuer en position de Hold et reprendre Engineer si un switch avait été effectué.
@@ -62,7 +61,7 @@ Suivre les indications du main caller.
 
 # Soldier Flank
 
-garde la door
+Le rôle du Soldier Flank est de garder 
 
 # Soldier Pocket
 

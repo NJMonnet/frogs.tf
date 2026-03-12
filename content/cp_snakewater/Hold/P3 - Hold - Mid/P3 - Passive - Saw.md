@@ -1,4 +1,10 @@
 ![[cp_snakewater_mid_passive_1.png]]
+[[#Scout Engineer]]
+[[#Scout Sniper]]
+[[#Soldier Pocket]]
+[[#Soldier Flank]]
+[[#Demoman]]
+[[#Medic]]
 
 ---
 
