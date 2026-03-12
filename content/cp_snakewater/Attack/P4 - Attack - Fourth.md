@@ -1,6 +1,6 @@
 Le combo prend la saw.
 
-Le scout Pocket prend la saw depuis catwalk.
+Le Soldier Pocket prend la saw depuis catwalk.
 
 Les Flanks jouent le Lower.
 
