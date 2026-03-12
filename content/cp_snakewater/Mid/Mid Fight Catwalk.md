@@ -1,7 +1,4 @@
-![[Pasted image 20260312191616.png]]
-Lost Mid Fight ? Go to [[P1 - Passive]]
-
-Won Mid Fight ? Go to [[P5 - Attack - Last]]
+![[cp_snakewater_mid_catwalk.png]]
 [[#Scout Engineer]]
 [[#Scout Sniper]]
 [[#Soldier Pocket]]

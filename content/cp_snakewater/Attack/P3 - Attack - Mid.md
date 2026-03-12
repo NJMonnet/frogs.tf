@@ -1,0 +1,1 @@
+Attendre le pick advantage, puis faire des counter sac.
