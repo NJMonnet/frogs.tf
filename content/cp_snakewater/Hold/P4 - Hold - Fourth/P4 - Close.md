@@ -1,3 +1,20 @@
 ![[cp_snakewater_fourth_close.png]]
+[[#Scout Pocket]]
+[[#Scout Flank]]
+[[#Soldier Pocket]]
+[[#Soldier Flank]]
+[[#Demoman]]
+[[#Medic]]
 
-Pas sur de celle la mdr
+---
+# Scout Pocket
+
+# Scout Flank
+
+# Soldier Flank
+
+# Soldier Pocket
+
+# Demoman
+
+# Medic

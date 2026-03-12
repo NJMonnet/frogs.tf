@@ -61,7 +61,9 @@ Suivre les indications du main caller.
 
 # Soldier Flank
 
-Le rôle du Soldier Flank est de garder 
+Le rôle du Soldier Flank est de garder la shutter, il est important de call l'arrivé des ennemies, cela permet à l'équipe de se repositioner en conséquence.
+
+
 
 # Soldier Pocket
 

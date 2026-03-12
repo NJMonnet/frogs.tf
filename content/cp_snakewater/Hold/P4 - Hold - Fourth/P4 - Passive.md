@@ -1,6 +1,6 @@
 ![[cp_snakewater_fourth_passive.png]]
-[[#Scout Engineer]]
-[[#Scout Sniper]]
+[[#Scout Pocket]]
+[[#Scout Flank]]
 [[#Soldier Pocket]]
 [[#Soldier Flank]]
 [[#Demoman]]

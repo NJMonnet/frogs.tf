@@ -1,7 +1,7 @@
 
 ![[cp_snakewater_mid_close1.png]]
-[[#Scout Engineer]]
-[[#Scout Sniper]]
+[[#Scout Pocket]]
+[[#Scout Flank]]
 [[#Soldier Pocket]]
 [[#Soldier Flank]]
 [[#Demoman]]
@@ -25,5 +25,7 @@ Transmettre les infos Lower au Sol F.
 
 # Demoman
 
-Dans le cas d'une attaque kitche, L demo devrait faire un sticky jump back lower ou kitchen
+Dans le cas d'une attaque kitchen, le demo devrait faire un sticky jump pour back lower ou kitchen
 # Medic
+
+Ne pas mourir
