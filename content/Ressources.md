@@ -20,6 +20,11 @@
 ###### [OZFORTRESS](https://ozfortress.com/pages/home)
 - Ligue compétitive asiatique / océanique.
 
+###### [TF2Center](https://tf2center.com)
+- Match compétitif à la demande.
+
+###### [TF2Pickup.fr](https://tf2pickup.fr/)
+- Match compétitif à la demande français.
 # Binds
 ###### Banny bind (Respawn instant)
 ```
