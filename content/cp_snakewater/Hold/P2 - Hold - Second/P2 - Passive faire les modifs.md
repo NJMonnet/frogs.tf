@@ -11,11 +11,15 @@
 ---
 # Scout Pocket
 
+Le scout pocket prend les infos
 # Scout Flank
 
-# Soldier Flank
-
+Joue plus close pour prendre les infos, par exempel au niveau des crates du points
 # Soldier Pocket
+
+Dans le lobby pour se préparer à bombe, prend les critheal. 
+
+# Soldier Flank
 
 # Demoman
 
